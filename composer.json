@@ -1,5 +1,5 @@
 {
-    "name": "orhanerday/open-ai",
+    "name": "guieloi/open-ai",
     "description": "OpenAI GPT-3 Api Client in PHP",
     "keywords": [
         "orhanerday",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "ext-curl": "*",
         "ext-json": "*"
     },
